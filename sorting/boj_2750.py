@@ -5,5 +5,5 @@ for i in range(n) :
 
 arr.sort()
 
-for i in arr :
-    print(i)
+for j in arr :
+    print(j)
