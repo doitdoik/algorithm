@@ -10,3 +10,5 @@ for i in range(c):
         if j > avg:
             cnt += 1
     print(f'{cnt/arr[0]*100:.3f}%')
+
+       

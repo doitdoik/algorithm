@@ -8,5 +8,5 @@ for _ in range(t):
         if n[-i - 1] == '1':
             print(i, end=' ')
 
-
+    
    
