@@ -9,4 +9,4 @@ for _ in range(t):
             print(i, end=' ')
 
     
-   
+        
