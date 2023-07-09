@@ -10,3 +10,5 @@ for i in range(n):
         x -= b
 print(x)
 print(y)
+
+   
