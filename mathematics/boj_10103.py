@@ -12,6 +12,3 @@ print(x)
 print(y)
 
    
-
-  
-    
