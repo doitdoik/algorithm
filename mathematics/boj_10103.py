@@ -11,4 +11,6 @@ for i in range(n):
 print(x)
 print(y)
 
-   
+      
+
+        
